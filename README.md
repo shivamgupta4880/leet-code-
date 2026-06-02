@@ -21,6 +21,7 @@ all leet code answer
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/shivamgupta4880/leet-code-/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/shivamgupta4880/leet-code-/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
