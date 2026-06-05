@@ -24,6 +24,7 @@ all leet code answer
 | [0007-reverse-integer](https://github.com/shivamgupta4880/leet-code-/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/shivamgupta4880/leet-code-/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/shivamgupta4880/leet-code-/tree/master/0189-rotate-array) |
+| [2579-count-total-number-of-colored-cells](https://github.com/shivamgupta4880/leet-code-/tree/master/2579-count-total-number-of-colored-cells) |
 ## Two Pointers
 |  |
 | ------- |
