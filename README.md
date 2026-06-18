@@ -18,17 +18,20 @@ all leet code answer
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shivamgupta4880/leet-code-/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/shivamgupta4880/leet-code-/tree/master/0202-happy-number) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/shivamgupta4880/leet-code-/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/shivamgupta4880/leet-code-/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/shivamgupta4880/leet-code-/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/shivamgupta4880/leet-code-/tree/master/0202-happy-number) |
 | [2579-count-total-number-of-colored-cells](https://github.com/shivamgupta4880/leet-code-/tree/master/2579-count-total-number-of-colored-cells) |
 ## Two Pointers
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/shivamgupta4880/leet-code-/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/shivamgupta4880/leet-code-/tree/master/0202-happy-number) |
 ## Divide and Conquer
 |  |
 | ------- |
