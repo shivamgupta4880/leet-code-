@@ -8,6 +8,7 @@ all leet code answer
 | ------- |
 | [0001-two-sum](https://github.com/shivamgupta4880/leet-code-/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/shivamgupta4880/leet-code-/tree/master/0035-search-insert-position) |
+| [0118-pascals-triangle](https://github.com/shivamgupta4880/leet-code-/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/shivamgupta4880/leet-code-/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivamgupta4880/leet-code-/tree/master/0215-kth-largest-element-in-an-array) |
 ## Binary Search
@@ -48,4 +49,8 @@ all leet code answer
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivamgupta4880/leet-code-/tree/master/0215-kth-largest-element-in-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/shivamgupta4880/leet-code-/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
