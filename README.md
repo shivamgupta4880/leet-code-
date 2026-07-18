@@ -13,6 +13,7 @@ all leet code answer
 | [0136-single-number](https://github.com/shivamgupta4880/leet-code-/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/shivamgupta4880/leet-code-/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivamgupta4880/leet-code-/tree/master/0215-kth-largest-element-in-an-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/shivamgupta4880/leet-code-/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -29,6 +30,7 @@ all leet code answer
 | [0009-palindrome-number](https://github.com/shivamgupta4880/leet-code-/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/shivamgupta4880/leet-code-/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/shivamgupta4880/leet-code-/tree/master/0202-happy-number) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/shivamgupta4880/leet-code-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2579-count-total-number-of-colored-cells](https://github.com/shivamgupta4880/leet-code-/tree/master/2579-count-total-number-of-colored-cells) |
 ## Two Pointers
 |  |
@@ -60,4 +62,8 @@ all leet code answer
 |  |
 | ------- |
 | [0136-single-number](https://github.com/shivamgupta4880/leet-code-/tree/master/0136-single-number) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/shivamgupta4880/leet-code-/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
