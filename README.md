@@ -27,6 +27,7 @@ all leet code answer
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shivamgupta4880/leet-code-/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/shivamgupta4880/leet-code-/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/shivamgupta4880/leet-code-/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/shivamgupta4880/leet-code-/tree/master/0066-plus-one) |
@@ -72,4 +73,12 @@ all leet code answer
 |  |
 | ------- |
 | [3798-largest-even-number](https://github.com/shivamgupta4880/leet-code-/tree/master/3798-largest-even-number) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/shivamgupta4880/leet-code-/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/shivamgupta4880/leet-code-/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
