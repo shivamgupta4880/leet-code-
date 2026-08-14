@@ -72,6 +72,7 @@ all leet code answer
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/shivamgupta4880/leet-code-/tree/master/0020-valid-parentheses) |
 | [3798-largest-even-number](https://github.com/shivamgupta4880/leet-code-/tree/master/3798-largest-even-number) |
 ## Linked List
 |  |
@@ -81,4 +82,12 @@ all leet code answer
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shivamgupta4880/leet-code-/tree/master/0002-add-two-numbers) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/shivamgupta4880/leet-code-/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/shivamgupta4880/leet-code-/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
