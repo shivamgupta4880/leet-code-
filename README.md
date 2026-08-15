@@ -15,6 +15,7 @@ all leet code answer
 | [0189-rotate-array](https://github.com/shivamgupta4880/leet-code-/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivamgupta4880/leet-code-/tree/master/0215-kth-largest-element-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivamgupta4880/leet-code-/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/shivamgupta4880/leet-code-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Binary Search
 |  |
 | ------- |
@@ -65,6 +66,7 @@ all leet code answer
 |  |
 | ------- |
 | [0136-single-number](https://github.com/shivamgupta4880/leet-code-/tree/master/0136-single-number) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/shivamgupta4880/leet-code-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Number Theory
 |  |
 | ------- |
