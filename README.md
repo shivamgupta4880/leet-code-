@@ -7,6 +7,7 @@ all leet code answer
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shivamgupta4880/leet-code-/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/shivamgupta4880/leet-code-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shivamgupta4880/leet-code-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/shivamgupta4880/leet-code-/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/shivamgupta4880/leet-code-/tree/master/0066-plus-one) |
@@ -20,6 +21,7 @@ all leet code answer
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shivamgupta4880/leet-code-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/shivamgupta4880/leet-code-/tree/master/0035-search-insert-position) |
 ## Hash Table
 |  |
@@ -48,6 +50,7 @@ all leet code answer
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shivamgupta4880/leet-code-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivamgupta4880/leet-code-/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
 |  |
