@@ -18,6 +18,7 @@ all leet code answer
 | [0217-contains-duplicate](https://github.com/shivamgupta4880/leet-code-/tree/master/0217-contains-duplicate) |
 | [0813-largest-sum-of-averages](https://github.com/shivamgupta4880/leet-code-/tree/master/0813-largest-sum-of-averages) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivamgupta4880/leet-code-/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/shivamgupta4880/leet-code-/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/shivamgupta4880/leet-code-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Binary Search
 |  |
@@ -58,6 +59,7 @@ all leet code answer
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivamgupta4880/leet-code-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/shivamgupta4880/leet-code-/tree/master/0217-contains-duplicate) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/shivamgupta4880/leet-code-/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -110,4 +112,8 @@ all leet code answer
 |  |
 | ------- |
 | [0813-largest-sum-of-averages](https://github.com/shivamgupta4880/leet-code-/tree/master/0813-largest-sum-of-averages) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/shivamgupta4880/leet-code-/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
