@@ -39,6 +39,7 @@ all leet code answer
 | [0007-reverse-integer](https://github.com/shivamgupta4880/leet-code-/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/shivamgupta4880/leet-code-/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/shivamgupta4880/leet-code-/tree/master/0066-plus-one) |
+| [0089-gray-code](https://github.com/shivamgupta4880/leet-code-/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/shivamgupta4880/leet-code-/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/shivamgupta4880/leet-code-/tree/master/0202-happy-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivamgupta4880/leet-code-/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -76,6 +77,7 @@ all leet code answer
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/shivamgupta4880/leet-code-/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/shivamgupta4880/leet-code-/tree/master/0136-single-number) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/shivamgupta4880/leet-code-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Number Theory
@@ -116,4 +118,8 @@ all leet code answer
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/shivamgupta4880/leet-code-/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/shivamgupta4880/leet-code-/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
