@@ -19,6 +19,7 @@ all leet code answer
 | [0813-largest-sum-of-averages](https://github.com/shivamgupta4880/leet-code-/tree/master/0813-largest-sum-of-averages) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivamgupta4880/leet-code-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/shivamgupta4880/leet-code-/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/shivamgupta4880/leet-code-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/shivamgupta4880/leet-code-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Binary Search
 |  |
@@ -32,6 +33,7 @@ all leet code answer
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivamgupta4880/leet-code-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0202-happy-number](https://github.com/shivamgupta4880/leet-code-/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/shivamgupta4880/leet-code-/tree/master/0217-contains-duplicate) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/shivamgupta4880/leet-code-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Math
 |  |
 | ------- |
@@ -79,6 +81,7 @@ all leet code answer
 | ------- |
 | [0089-gray-code](https://github.com/shivamgupta4880/leet-code-/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/shivamgupta4880/leet-code-/tree/master/0136-single-number) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/shivamgupta4880/leet-code-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/shivamgupta4880/leet-code-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Number Theory
 |  |
@@ -122,4 +125,12 @@ all leet code answer
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/shivamgupta4880/leet-code-/tree/master/0089-gray-code) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/shivamgupta4880/leet-code-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Matrix
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/shivamgupta4880/leet-code-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
