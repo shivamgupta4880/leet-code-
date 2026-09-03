@@ -50,6 +50,7 @@ all leet code answer
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shivamgupta4880/leet-code-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0061-rotate-list](https://github.com/shivamgupta4880/leet-code-/tree/master/0061-rotate-list) |
 | [0189-rotate-array](https://github.com/shivamgupta4880/leet-code-/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/shivamgupta4880/leet-code-/tree/master/0202-happy-number) |
 ## Divide and Conquer
@@ -97,6 +98,7 @@ all leet code answer
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shivamgupta4880/leet-code-/tree/master/0002-add-two-numbers) |
+| [0061-rotate-list](https://github.com/shivamgupta4880/leet-code-/tree/master/0061-rotate-list) |
 ## Recursion
 |  |
 | ------- |
